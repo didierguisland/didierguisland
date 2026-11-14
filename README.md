@@ -7,6 +7,11 @@ I come from business and finance (Universidad Panamericana; Kroll; Hasta Capital
 
 My training is in business and finance, not software engineering, so I build by directing several AI models (Claude as architect, Codex as builder, Gemini for creative direction) with written briefs, tests and review gates. When code gets cheap, the work moves to deciding what to build, how to bound it, and where a person has to check it. That shift is what I write about.
 
+### Live in production
+
+- **[Vernuli](https://vernuli.com)**: my company. We help non-technical teams turn ideas into AI processes that actually work.
+- **[En Balance](https://enbalance100.com.mx)**: the online store for my family's wellness business, built and run with this same method: Claude plans, Codex builds, a person approves anything that touches payments or customer data.
+
 ### Start with the idea
 
 **[The Rising Cost of Judgment](https://didierguisland.github.io/the-rising-cost-of-judgment/)**: an essay (EN/ES) and a method, the Vernuli Matrix, for deciding what to automate and exactly where human judgment has to sit.
@@ -22,4 +27,4 @@ My training is in business and finance, not software engineering, so I build by 
 
 Each repository says plainly what I decided, what the models did, and what a person verified.
 
-**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/didier-guisland) · [Vernuli](https://vernuli.com) · Mexico City
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/didier-guisland) · [Vernuli](https://vernuli.com) · [En Balance](https://enbalance100.com.mx) · Mexico City
