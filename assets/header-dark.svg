@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-label="Didier Guisland. Business and finance. I build AI systems and decide where human judgment sits in them.">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}</style>
+<rect width="1200" height="330" rx="18" fill="#141615"/>
+<rect x="56" y="58" width="44" height="4" fill="#E08A5F"/>
+<text x="56" y="112" font-size="50" font-weight="600" fill="#EDEAE4" letter-spacing="-1">Didier Guisland</text>
+<text x="56" y="156" font-size="21" fill="#9CA6A0">Business &amp; finance · Founder of Vernuli · Mexico City</text>
+<text x="56" y="222" font-size="25" fill="#EDEAE4">I build working AI systems, and decide</text>
+<text x="56" y="256" font-size="25" fill="#EDEAE4">where <tspan fill="#E08A5F" font-weight="600">human judgment</tspan> has to sit in them.</text>
+<g transform="translate(800,52)">
+  <text x="0" y="0" font-size="12" letter-spacing="2" fill="#E08A5F" font-weight="600">WHERE DOES JUDGMENT GO?</text>
+  <rect x="34" y="18" width="150" height="104" rx="10" fill="#E08A5F"/>
+  <text x="109" y="64" font-size="14" fill="#141615" text-anchor="middle" font-weight="600">A person at</text>
+  <text x="109" y="84" font-size="14" fill="#141615" text-anchor="middle" font-weight="600">the right point</text>
+  <rect x="192" y="18" width="150" height="104" rx="10" fill="#1E2220"/>
+  <text x="267" y="74" font-size="14" fill="#EDEAE4" text-anchor="middle">Leave as it is</text>
+  <rect x="34" y="130" width="150" height="104" rx="10" fill="#1E2220"/>
+  <text x="109" y="186" font-size="14" fill="#EDEAE4" text-anchor="middle">Automate</text>
+  <rect x="192" y="130" width="150" height="104" rx="10" fill="#1E2220"/>
+  <text x="267" y="186" font-size="14" fill="#EDEAE4" text-anchor="middle">Redesign</text>
+  <line x1="24" y1="236" x2="24" y2="22" stroke="#4A514D" stroke-width="1.5"/>
+  <path d="M19 30 24 20 29 30" fill="none" stroke="#4A514D" stroke-width="1.5"/>
+  <line x1="28" y1="246" x2="342" y2="246" stroke="#4A514D" stroke-width="1.5"/>
+  <path d="M334 241 344 246 334 251" fill="none" stroke="#4A514D" stroke-width="1.5"/>
+  <text x="14" y="128" font-size="12" fill="#9CA6A0" text-anchor="middle" transform="rotate(-90 14 128)">cost of a mistake</text>
+  <text x="188" y="266" font-size="12" fill="#9CA6A0" text-anchor="middle">cost of review</text>
+</g>
+</svg>
